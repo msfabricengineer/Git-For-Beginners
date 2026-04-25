@@ -9,3 +9,6 @@ def subtract_nums(a,b):
 
 def devide_nums(a,b):
     return a/b
+
+def power(a, b):
+    return a ** b
