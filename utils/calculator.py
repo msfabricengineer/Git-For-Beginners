@@ -1,4 +1,5 @@
 def add_nums(a,b):
+    """Added two numbers"""
     return a + b
 
 def multiply_nums(a,b):
