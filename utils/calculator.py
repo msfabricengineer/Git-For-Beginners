@@ -6,3 +6,6 @@ def multiply_nums(a,b):
 
 def subtract_nums(a,b):
     return a-b
+
+def devide_nums(a,b):
+    return a/b
