@@ -7,4 +7,4 @@ if __name__ == "__main__":
     print(subtract_nums(2,3))
     print(devide_nums(2,3))
     print(power(2,3))
-
+    print("updated in main")
