@@ -8,3 +8,5 @@ if __name__ == "__main__":
     print(devide_nums(2,3))
     print(power(2,3))
     print("updated in main")
+    print("stash me")
+
